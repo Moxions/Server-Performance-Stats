@@ -10,7 +10,7 @@ A bash script to analyse basic server performance stats.
 
 ```bash
 git clone https://github.com/Moxions/Server-Performance-Stats.git
-cd server-performance-stats
+cd Server-Performance-Stats
 ```
 
 ### 2. Make the script executable
