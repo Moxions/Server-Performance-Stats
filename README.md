@@ -37,3 +37,4 @@ chmod +x server-stats.sh
 - Top processes by memory usage
 
 This project is part of roadmap.sh DevOps projects.
+project url: https://roadmap.sh/projects/server-stats
